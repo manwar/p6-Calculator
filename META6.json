@@ -8,6 +8,7 @@
   "license" : "Artistic-2.0",
   "name" : "Calculator",
   "perl" : "6.c",
+  "auth" : "github:manwar",
   "provides" : {
     "Calculator" : "lib/Calculator.pm6"
   },
