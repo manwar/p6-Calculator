@@ -12,7 +12,7 @@
     "Calculator" : "lib/Calculator.pm6"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "git://github.com/manwar/p6-Calculator.git",
   "tags" : [ ],
   "test-depends" : [ ],
   "version" : "0.0.1"
